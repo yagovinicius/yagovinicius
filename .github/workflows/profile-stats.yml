@@ -20,8 +20,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          image-file: assets/userstats.svg
-          theme: dark
+          image-file: userstats.svg
+          colors: dark
           custom-title: "Yago Vinicius - Performance"
 
       - name: Commit updated SVG
