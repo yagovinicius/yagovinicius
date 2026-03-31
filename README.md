@@ -1,30 +1,40 @@
 # Olá, sou o Yago | Hi, I'm Yago
 
-### 🇧🇷 Português
-**Arquiteto de Soluções com foco em Dados e IA**, especializado em converter processos complexos em ecossistemas automatizados, escaláveis e inteligentes.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🇧🇷 Português</h3>
+      Arquiteto de Soluções e Analista de Dados no <b>Sebrae GO</b>. Especialista em converter processos complexos em ecossistemas inteligentes com IA e Automação. 
+      <br><br>
+      🎓 <i>IA (GRAN) & Adm (Unialfa)</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇺🇸 English</h3>
+      Solutions Architect and Data Analyst at <b>Sebrae GO</b>. Expert in converting complex processes into intelligent ecosystems using AI and Automation.
+      <br><br>
+      🎓 <i>AI Tech & Business Admin</i>
+    </td>
+  </tr>
+</table>
 
-Atualmente, atuo no **Sebrae GO**, onde lidero e projeto soluções de otimização de fluxos corporativos. Minha abordagem une a **visão estratégica de negócios** à **engenharia técnica**, garantindo que o dado não seja apenas um registro em um relatório, mas o gatilho para ações automáticas e inteligência operacional.
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
 
-Estou em fase de conclusão da graduação em **Inteligência Artificial (GRAN)** e **Administração (Unialfa)**, consolidando minha trajetória para **Engenharia de IA e Machine Learning**.
+---
 
-**Expertise Técnica:**
-* **Arquitetura de Soluções & Automação:** Design e orquestração de fluxos complexos (n8n, Power Automate, Python scripts) integrando múltiplos microsserviços.
-* **Engenharia de Dados:** Modelagem e gerenciamento de bancos de dados (PostgreSQL, Redis, Supabase) e construção de pipelines de BI (ETL/ELT).
-* **Desenvolvimento de Software & IA:** Desenvolvimento de back-end em Python, criação e consumo de APIs REST, processamento de linguagem natural e implementação de modelos de Machine Learning.
+### 📊 Estatísticas | Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagovinicius&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagovinicius&layout=compact&theme=dark" />
+</p>
 
 ---
 
-### 🇺🇸 English
-**Solutions Architect focusing on Data and AI**, specializing in converting complex processes into automated, scalable, and intelligent ecosystems.
-
-Currently at **Sebrae GO**, where I lead and design corporate workflow optimization solutions. My approach bridges **business strategy** and **technical engineering**, ensuring that data isn't just a record in a report, but the trigger for automated actions and operational intelligence.
-
-I am finishing my degrees in **AI Technology (GRAN)** and **Business Administration (Unialfa)**, pivoting my career toward **AI and Machine Learning Engineering**.
-
-**Technical Expertise:**
-* **Solutions Architecture & Automation:** Design and orchestration of complex workflows (n8n, Power Automate, Python scripts) integrating multiple microservices.
-* **Data Engineering:** Database modeling and management (PostgreSQL, Redis, Supabase) and building BI pipelines (ETL/ELT).
-* **Software Development & AI:** Python back-end development, REST API design and integration, Natural Language Processing, and Machine Learning model implementation.
-
----
-📫 **Contact | Contato:** yagoviniciusribeiro05@gmail.com | Linkedin: www.linkedin.com/in/yago-vinícius-ribeiro-da-silva-549319275
+<p align="center">
+  <a href="mailto:yagoviniciusribeiro05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yago-vinícius-ribeiro-da-silva-549319275" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
