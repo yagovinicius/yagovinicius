@@ -58,7 +58,9 @@
 * Executive CX Dashboard (NPS/CSAT) featuring Supabase Auth, dynamic ETL, and automated PPT reports. | Dashboard executivo de CX com autenticação via Supabase, ETL e relatórios automatizados
   
   Access with / Acesse com:
+  
     → Corporate E-mail / E-mail Corporativo: recrutador@alphacorp.demo
+  
     → Initial Password / Senha Inicial: demo123
 
 * **Tech Stack:** Python, Streamlit, Pandas, Plotly, Supabase, GitHub Actions (Keep-Alive CronJob).
