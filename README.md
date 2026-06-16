@@ -55,9 +55,7 @@
 ## 🏆 Projeto em Destaque / Featured Project
 
 **[AlphaCorp Analytics | Executive Dashboard](https://alpha-omniscope.streamlit.app/)**
-Uma demonstração arquitetural de Engenharia de Software, Data Analytics e Governança de Sessões.
-* **O Desafio:** Criar um portfólio público de um painel corporativo (NPS/CSAT) sem expor a base de dados real ou permitir que a manipulação pública corrompesse a nuvem.
-* **A Solução:** Arquitetura "Groundhog Day" construída em **Python & Streamlit**, conectada a um banco **Supabase (PostgreSQL)** com políticas de *Row Level Security* (RLS). A aplicação intercepta as ações do usuário e as aplica em um cache efêmero local (`st.session_state`), garantindo uma simulação interativa que reseta perfeitamente a cada nova sessão.
+* **Executive CX Dashboard (NPS/CSAT) featuring Supabase Auth, dynamic ETL, and automated PPT reports. | Dashboard executivo de CX com autenticação via Supabase, ETL e relatórios automatizados.
 * **Tech Stack:** Python, Streamlit, Pandas, Plotly, Supabase, GitHub Actions (Keep-Alive CronJob).
 
 [Acessar a Aplicação](https://alpha-omniscope.streamlit.app/) | [Ver o Código](https://github.com/yagovinicius/alpha-omniscope)
