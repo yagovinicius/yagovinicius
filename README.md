@@ -55,7 +55,7 @@
 ## 🏆 Projeto em Destaque / Featured Project
 
 **[AlphaCorp Analytics | Executive Dashboard](https://alpha-omniscope.streamlit.app/)**
-* **Executive CX Dashboard (NPS/CSAT) featuring Supabase Auth, dynamic ETL, and automated PPT reports. | Dashboard executivo de CX com autenticação via Supabase, ETL e relatórios automatizados.
+* Executive CX Dashboard (NPS/CSAT) featuring Supabase Auth, dynamic ETL, and automated PPT reports. | Dashboard executivo de CX com autenticação via Supabase, ETL e relatórios automatizados.
 * **Tech Stack:** Python, Streamlit, Pandas, Plotly, Supabase, GitHub Actions (Keep-Alive CronJob).
 
 [Acessar a Aplicação](https://alpha-omniscope.streamlit.app/) | [Ver o Código](https://github.com/yagovinicius/alpha-omniscope)
